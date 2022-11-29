@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "169445089743",
+    "project_id": "sensor-test-f146b",
+    "storage_bucket": "sensor-test-f146b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169445089743:android:2ccad4de5c84e7831f32ba",
+        "android_client_info": {
+          "package_name": "com.example.sensor_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169445089743-p79v2ssj9tsf46uqp8sicmdijagdf4fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpZGNw5-Qak7RIL6fhte_V5KhYThSyiEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169445089743-p79v2ssj9tsf46uqp8sicmdijagdf4fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
